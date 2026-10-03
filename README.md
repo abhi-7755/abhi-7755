@@ -1,4 +1,4 @@
-# Hi there, I'm Abhishek Gaikwad 👋
+# 👋 Hi there, I'm Abhishek Gaikwad 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vcenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Web+%26+AI+Applications;CS+Student+at+DYPIT+Pune" alt="Typing SVG" />
