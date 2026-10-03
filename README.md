@@ -53,6 +53,8 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
 ### 📄 [ResumeIQ – AI Resume Analyzer Platform](https://github.com/abhi-7755)
