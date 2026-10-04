@@ -228,16 +228,16 @@ Next.js + FastAPI + Supabase, including multi-tenant design.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=[abhi-7755]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[abhi-7755]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=[abhi-7755]&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Contribution Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[abhi-7755]&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
