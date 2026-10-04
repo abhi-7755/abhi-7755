@@ -250,6 +250,15 @@ Next.js + FastAPI + Supabase, including multi-tenant design.
 - **AI as a tool, not decoration:** integrate models where they solve a real problem.
 - **Keep learning:** the stack evolves, and so should the developer.
 
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi-7755/abhi-7755/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/abhi-7755/abhi-7755/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 ---
 
 ## 📬 Let's Connect
@@ -270,3 +279,6 @@ Next.js + FastAPI + Supabase, including multi-tenant design.
 <sub>Designed and built by Abhishek Gaikwad · Pune, India</sub>
 
 </div>
+
+
+
