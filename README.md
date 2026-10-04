@@ -1,4 +1,4 @@
-<!-- ===================== HERO ===================== -->
+<img width="1276" height="397" alt="image" src="https://github.com/user-attachments/assets/edd70d19-9124-45e6-93e4-f1982518768d" /><!-- ===================== HERO ===================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&section=header&text=Abhishek%20Gaikwad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20Full-Stack%20Developer&descSize=20&descAlignY=58" alt="Abhishek Gaikwad - AI + Full-Stack Developer" width="100%" />
@@ -228,16 +228,16 @@ Next.js + FastAPI + Supabase, including multi-tenant design.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=[abhi-7755]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[abhi-7755]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhi-7755&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-7755&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=[abhi-7755]&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=abhi-7755&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[abhi-7755]&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Contribution Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-7755&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
@@ -258,10 +258,10 @@ Next.js + FastAPI + Supabase, including multi-tenant design.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)]([YOUR_LINKEDIN_URL])
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF)](mailto:[YOUR_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)]((https://www.linkedin.com/in/abhishek-gaikwad-65b616333/?isSelfProfile=true))
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF)](mailto:abhishekgaikwad1808@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED)]([YOUR_PORTFOLIO_URL])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi-7755)
 
 </div>
 
