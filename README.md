@@ -1,4 +1,4 @@
-<img width="1276" height="397" alt="image" src="https://github.com/user-attachments/assets/edd70d19-9124-45e6-93e4-f1982518768d" /><!-- ===================== HERO ===================== -->
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&section=header&text=Abhishek%20Gaikwad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20Full-Stack%20Developer&descSize=20&descAlignY=58" alt="Abhishek Gaikwad - AI + Full-Stack Developer" width="100%" />
@@ -14,7 +14,7 @@
 </picture>
 -->
 
-<a href="https://github.com/[abhi-7755]">
+<a href="https://github.com/abhi-7755">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=AI+%2B+Full-Stack+Developer;Building+modern+web+applications;Next.js+%7C+FastAPI+%7C+Ollama+%7C+PostgreSQL;Learning+LLM+integrations+%26+intelligent+systems" alt="Typing animation" />
 </a>
 
@@ -105,8 +105,7 @@ Ollama-powered resume analysis with job matching and career-prep tools.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-[![Repository](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)]([RESUMEIQ_REPO_LINK])
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logoColor=black&labelColor=0D1117)]([RESUMEIQ_LIVE_DEMO_LINK])
+[![Repository](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi-7755/YOUR_RESUMEIQ_REPO_NAME)
 
 </td>
 <td width="50%" valign="top">
@@ -130,8 +129,7 @@ Upload business data, profile it, find anomalies, and ask questions in natural l
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-[![Repository](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)]([QUANTARA_REPO_LINK])
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logoColor=black&labelColor=0D1117)]([QUANTARA_LIVE_DEMO_LINK])
+[![Repository](https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi-7755/YOUR_QUANTARA_REPO_NAME)
 
 </td>
 </tr>
@@ -258,9 +256,8 @@ Next.js + FastAPI + Supabase, including multi-tenant design.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)]((https://www.linkedin.com/in/abhishek-gaikwad-65b616333/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/abhishek-gaikwad-65b616333/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF)](mailto:abhishekgaikwad1808@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED)]([YOUR_PORTFOLIO_URL])
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi-7755)
 
 </div>
